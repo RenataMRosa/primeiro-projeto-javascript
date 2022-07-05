@@ -1,6 +1,6 @@
 <h1 align="center"> + - CONTADOR - + </h1>
 
-<h4>MEU PRIMEIRO PROJETO EM JAVASCRIPT 💛 </h4>
+<h4>MEU PRIMEIRO PROJETO COM JAVASCRIPT 💛 </h4>
 
  _Desenvolvido para colocar em prática o conteúdo aprendido no módulo de introdução ao Javascript ministrado pela DIO no Bootcamp Santander Fullstack Developer._
 

@@ -14,7 +14,7 @@
   
   <img src="https://user-images.githubusercontent.com/106842147/177229604-32c722b9-08ab-4925-8ef4-b0c58a23b403.png" width="500">
   
-  <h6 align="center">Quando clicado o botão ➕ será acrescentado +1 ao valor,<br>
+  <h6 align="center"><i>Quando clicado o botão ➕ será acrescentado +1 ao valor,<br>
   que inicialmente é 0 (zero), quando clicado o botão ➖ será<br>
-  decrementado -1, sendo possível números negativos.</h6>
+  decrementado -1, sendo possível números negativos.</i></h6>
 </p>
